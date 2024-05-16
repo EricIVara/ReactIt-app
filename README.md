@@ -1,4 +1,6 @@
 # React-It
+
+![chicken](https://github.com/EricIVara/ReactIt-app/assets/79364739/8917e4ac-480a-46f7-a535-bd678d9b4b19)
    - [Logo](https://github.com/gtwnsnd20/project-1/blob/c4ee325c3035f6ec1c37e70ee1deabf657353856/frontend/src/components/Assets/Images/chicken.png)
 
 ## Description
